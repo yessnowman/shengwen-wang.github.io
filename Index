@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Shengwen Wang</title>
+
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  padding: 60px 80px;
+  line-height: 1.5;
+}
+</style>
+</head>
+
+<body>
+
+<p>
+My name is <a href="#">Shengwen Wang (王盛文)</a>. I am a lecturer at Queen Mary University of London.
+<br>
+Previously, I completed my PhD at Johns Hopkins University in 2018 under the direction of Jacob Bernstein.
+</p>
+
+<p>
+<b>Email:</b><br>
+<a href="mailto:shengwen.wang@qmul.ac.uk">shengwen.wang@qmul.ac.uk</a>
+</p>
+
+<p>
+<b>Address:</b><br>
+Room: MB-B14<br>
+Queen Mary University of London, School of Mathematical Sciences
+</p>
+
+<p>
+<a href="CV.pdf">CV</a>
+</p>
+
+</body>
+</html>
